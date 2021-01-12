@@ -9,7 +9,7 @@ alabaster==0.7.7
 check-manifest==0.31
 cov-core==1.15.0
 coverage==4.0.3
-coveralls==1.1
+coveralls==3.0.0
 docopt==0.6.2
 docutils==0.12
 jarn.viewdoc==1.7
